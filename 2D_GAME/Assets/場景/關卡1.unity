@@ -923,7 +923,7 @@ GameObject:
   - component: {fileID: 321510941}
   - component: {fileID: 321510940}
   m_Layer: 0
-  m_Name: Particle System (1)
+  m_Name: door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8492,7 +8492,7 @@ GameObject:
   - component: {fileID: 1871303341}
   - component: {fileID: 1871303340}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: air
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
