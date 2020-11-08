@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     {
         print("碰到門");
 
+
     }
 
 }
