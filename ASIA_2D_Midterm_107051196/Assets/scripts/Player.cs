@@ -2,13 +2,12 @@
 
 public class Player : MonoBehaviour
 {
-    public GameObject final;
+    public GameObject Final;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         print("碰到門");
-
-
+        Final.SetActive(true);
     }
 
 }
